@@ -1,0 +1,35 @@
+body {
+	background-image: url('imagens/fundo.png');
+	width: 900px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+h2 {
+	color: #828271;
+	font-size: 1.2em;
+}
+
+a{
+	text-decoration: none;
+	padding: 5px;
+	color: #4d4d63;
+	font-weight: bold;
+}
+
+#conteudo {
+	background-color: #E8E8D9;
+	padding: 5px;
+}
+.links{
+	background-color: #C5C5B2;
+	padding: 18px;
+}
+
+#rodape{
+	text-align: center;
+}
+
+.imagens{
+	border: 10px solid #cfcfbc;
+}
+
